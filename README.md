@@ -10,4 +10,4 @@ Repo containing the Open Source Programs.
 7. [Open Mainframe Project Mentorship Program](https://openmainframeproject.org/projects/mentorship/)
 8. [Codeheat](https://codeheat.org/)
 9. [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
-10. [Redox OS]()
+10. [Redox OS](https://www.redox-os.org/rsoc/)
