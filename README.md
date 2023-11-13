@@ -13,4 +13,4 @@ Repo containing the Open Source Programs.
 10. [Redox OS](https://www.redox-os.org/rsoc/)
 11. [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN)
 12. [OWASP](https://owasp.org/index.php/OWASP_Code_Sprint_2017)
-13. [OSOC]()
+13. [OSOC](https://osoc.be/)
