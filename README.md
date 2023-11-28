@@ -14,5 +14,5 @@ Repo containing the Open Source Programs.
 11. [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN)
 12. [OWASP](https://owasp.org/index.php/OWASP_Code_Sprint_2017)
 13. [OSOC](https://osoc.be/)
-14. [Winter of ](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
-15. []
+14. [Winter of Implied](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
+16. []
