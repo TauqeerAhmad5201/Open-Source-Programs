@@ -18,4 +18,4 @@ Repo containing the Open Source Programs.
 16. [Reinforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research//rl-open-source-fest/)
 
 
-Netbird
+Netbird (Open Source VPM)
